@@ -1,5 +1,6 @@
+---
 layout: post
-title: Investigating Scraver Activity
+title: "Investigating Scraver Activity"
 ---
 ## Location: Criticorum
 Party was investigating scraver activity in a barony.
