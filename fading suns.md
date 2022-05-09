@@ -17,3 +17,4 @@ title: Fading Suns Campaign
 Current location: **Criticorum**
 
 Local authority: **Baron Hazan Hazat**
+Baron's aid: **Jameson**
