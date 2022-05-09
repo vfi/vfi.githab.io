@@ -2,6 +2,7 @@
 layout: post
 title: "Meeting with Baron"
 ---
+## Location: Criticorum
 
 We received following data after conversation with the AI:
 1. Guiver received **big metal egg**, looks like storage device, probably hosts an AI
